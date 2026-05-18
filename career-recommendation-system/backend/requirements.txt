@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+numpy
+nltk
+scikit-learn
+python-multipart
